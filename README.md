@@ -1,82 +1,67 @@
-# Hey there, I’m Rahul Deb 👋
+# Rahul Deb
 
-I'm an Electronics & Communication Engineering undergrad at **NIT Manipur** (Batch of 2023–2027),  
-building a path where **hardware meets creativity** — from LED matrix displays to comic review sites, from 6G satellite research to launching birds with physics.
-
----
-
-### 🔍 What I’m Exploring Right Now
-
-- ⚙️ **Digital systems + simulation** (Proteus, MAX7219, LED matrix displays)
-- 🧠 **Embedded + IoT basics** (ESP32, UART, SPI, sensor networks)
-- 🌐 **Web Dev** (HTML/CSS/JS — building Cultured Comic, my baby)
-- 🖼️ **Open3D** for future visualization projects
-- 🎮 **Game Development** (learning through recreating Angry Birds — one slingshot at a time)
+Electronics & Communication Engineering undergraduate at NIT Manipur (Batch of 2023–2027), 
+focused on digital design, embedded systems, and communication technologies, with additional 
+experience in front-end web development.
 
 ---
 
-### 🧰 What I Use to Build Stuff
+## Technical Skills
 
-- **Languages:** C, C++, Python, HTML, CSS, JavaScript  
-- **Tools:** Proteus 8.6, VS Code, GitHub, Open3D, Pygame (learning)  
-- **Skills:** Circuit design, UI building, visual logic, structured chaos ⚡
+**Languages:** C, C++, Python, VHDL, Verilog, HTML, CSS, JavaScript
 
----
+**Tools & Platforms:** Cadence, Vivado, MATLAB, Proteus 8.6, Git/GitHub, Ubuntu Linux
 
-### 🌟 Projects I'm Proud Of
-
-#### 🧠 Cultured Comic  
-> A site to shine light on underrated manga/gems like **Berserk, Kingdom, Vagabond** —  
-> includes slideshow previews, 5-star reviews, and a "Read or Nah?" voting system.  
-> [Built with HTML/CSS/JS]
-
-#### 💡 16x40 LED Matrix Display with MAX7219  
-> Daisy-chained MAX7219 chips controlling an LED matrix in Proteus —  
-> a mini marvel of digital design & simulation, running clean and glowing hot 🔥
-
-#### 📡 Mini IoT-based Sensor Logger *(WIP)*  
-> Tinkering with ESP32 + sensor data + Firebase for real-time readings.  
-> Not fully cooked yet, but it's simmering.
-
-#### 🎯 Angry Birds Clone *(Learning Project)*  
-> Building my own version of **Angry Birds** using JS and Canvas —  
-> focused on physics simulation, object collision, and just plain fun.  
-> Goal: learn game dev logic by doing, not just watching.
+**Core Areas:** Digital & analog circuit design, RTL design and synthesis, embedded systems 
+(8051, PIC18, ESP32), VLSI/CMOS design, front-end web development
 
 ---
 
-### 🚀 Current Project Spotlight: 6G Satellite Swarm Communication System
+## Experience
 
-> Collaborating on a futuristic proposal exploring **6G architecture using distributed satellite swarms** 🛰️  
-> The system envisions **coordinated nanosatellite constellations** enabling high-speed, resilient, and decentralized space-based networks.
+**Trainee Intern — Rashtriya Ispat Nigam Limited (Visakhapatnam Steel Plant)**  
+Telecommunications Department · June–July 2025  
+Studied wireless communication systems as part of a 4-week internship at a Government of 
+India public sector enterprise.
 
-#### Focus Areas:
-- 📡 Satellite-to-satellite interlink communication protocols  
-- 🛰️ Swarm-based decentralized control & coordination  
-- ⚙️ Embedded subsystems + power-efficient designs  
-- 🌍 Ground station integration and data routing  
-- 📶 Target use-case: **next-gen 6G communication backbones**
-
-This is a hybrid of **research, simulation, and embedded engineering** — and I’m all in. ECE dreams… but cosmic 🌌
-
----
-
-### 📚 I Also Love...
-
-- 🦇 **Batman** (Arkham series + comic lore nerd)
-- ⚔️ **Guts from Berserk** is peak character design
-- 🏰 **LOTR, Game of Thrones, and all things epic fantasy**
-- 🎸 **Guitar noob** with a dream, vibes to **Fossils** — favorite? `Hasnuhana`
+**VLSI Design Workshop — National Integrated Electronics (NiNE) Labs, IIT Guwahati**  
+February 2026  
+Completed a 5-day hands-on workshop on VLSI design using open-source EDA tools, in 
+association with the Ministry of Electronics and Information Technology (MeitY), Government 
+of India. Performed RTL synthesis using open-source EDA tools on Ubuntu Linux.
 
 ---
 
-### 🛜 Let's Connect
+## Projects
 
-- 📸 [Instagram](https://instagram.com/rdeb4barca)
-- 💼 [LinkedIn](https://www.linkedin.com/in/rahul-deb)
-- 📧 [Email](mailto:rdrahuldeb93@gmail.com)
-- 💻 [GitHub](https://github.com/rahuldeb93)
+### Cultured Comic
+A web platform for discovering and reviewing manga and comics, featuring a dynamic 
+slideshow, star-based rating system, and review aggregation.  
+**Stack:** HTML, CSS, JavaScript
+
+### 16×40 LED Matrix Display (MAX7219)
+Designed and simulated a daisy-chained MAX7219-based LED matrix display in Proteus, covering 
+digital control logic and hardware-level simulation.  
+**Stack:** Proteus, Embedded Systems
+
+### IoT-Based Sensor Logger *(in progress)*
+A sensor data logging pipeline using ESP32, with real-time data storage and retrieval via 
+Firebase.  
+**Stack:** ESP32, IoT
+
+### Game Physics Clone *(learning project)*
+A recreation of classic arcade game mechanics using JavaScript and Canvas, built to study 
+physics simulation and collision detection.  
+**Stack:** JavaScript, Canvas
+
+### 6G Satellite Swarm Communication (Research Concept)
+A collaborative research proposal exploring 6G network architecture using distributed 
+nanosatellite swarms, covering satellite-to-satellite interlink protocols, decentralized 
+coordination, and embedded subsystem design.  
+**Focus Areas:** Satellite communication, embedded systems, distributed networks
 
 ---
 
-> _"Even if I stop breathing, I’ll never stop swinging."_ — Guts
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/rahul-deb93) · [Email](mailto:rdrahuldeb93@gmail.com)
